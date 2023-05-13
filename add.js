@@ -15,4 +15,4 @@ console.log(mul(10, 20));
 const adivision = function division(a, b) {
     return (a / b) + number;
 }
-console.log(adivision(50, 10));
+console.log(adivision(100, 5));
